@@ -1,4 +1,4 @@
-const CACHE_NAME = "destinycache";
+const CACHE_NAME = "fpwa-v1";
 var urlsToCache = [
   "/",
   "/nav.html",
